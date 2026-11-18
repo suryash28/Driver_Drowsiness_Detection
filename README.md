@@ -690,7 +690,9 @@ Potential future improvements include:
 
 ## Author
 
-**Anoop Kumar Dwivedi**
+**Suryash Nigam**
+**Anoop Dwivedi**
+**Sushant Kumar**
 
 MCA - Data Science & Informatics  
 National Institute of Technology, Patna
